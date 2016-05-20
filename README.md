@@ -1,2 +1,2 @@
-# wordpress_dynamo
-SEO-friendly configuration of wordpress with AJAX page reloads
+# Dynamo Wordpress
+SEO-friendly configuration of Wordpress with AJAX page reloads
